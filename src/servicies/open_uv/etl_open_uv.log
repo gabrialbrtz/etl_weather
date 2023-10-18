@@ -1,0 +1,144 @@
+2023-09-17 16:09:39,569 - INFO - Starting connection with Open UV API
+2023-09-17 16:09:39,570 - INFO - Getting data from current uv...
+2023-09-17 16:09:39,574 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:39,952 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=40.4&lng=-3.69&dt=2023-09-17T16%3A09%3A39.570399 HTTP/1.1" 200 894
+2023-09-17 16:09:39,956 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:40,250 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=39.47&lng=-0.38&dt=2023-09-17T16%3A09%3A39.953762 HTTP/1.1" 200 896
+2023-09-17 16:09:40,258 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:40,556 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=38.35&lng=-0.49&dt=2023-09-17T16%3A09%3A40.255023 HTTP/1.1" 200 895
+2023-09-17 16:09:40,562 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:40,860 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=36.83&lng=-2.46&dt=2023-09-17T16%3A09%3A40.560427 HTTP/1.1" 200 895
+2023-09-17 16:09:40,865 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:41,169 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=37.18&lng=-3.6&dt=2023-09-17T16%3A09%3A40.862597 HTTP/1.1" 200 893
+2023-09-17 16:09:41,175 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:41,475 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=37.78&lng=-3.78&dt=2023-09-17T16%3A09%3A41.172239 HTTP/1.1" 200 893
+2023-09-17 16:09:41,480 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:41,776 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=36.72&lng=-4.42&dt=2023-09-17T16%3A09%3A41.477680 HTTP/1.1" 200 894
+2023-09-17 16:09:41,781 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:42,450 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=37.89&lng=-4.78&dt=2023-09-17T16%3A09%3A41.779812 HTTP/1.1" 200 894
+2023-09-17 16:09:42,455 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:42,738 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=36.51&lng=-6.28&dt=2023-09-17T16%3A09%3A42.453295 HTTP/1.1" 200 894
+2023-09-17 16:09:42,742 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:43,029 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=37.26&lng=-6.94&dt=2023-09-17T16%3A09%3A42.740380 HTTP/1.1" 200 894
+2023-09-17 16:09:43,034 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:43,334 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=37.39&lng=-5.99&dt=2023-09-17T16%3A09%3A43.032063 HTTP/1.1" 200 895
+2023-09-17 16:09:43,339 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:43,620 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=38.88&lng=-6.97&dt=2023-09-17T16%3A09%3A43.337012 HTTP/1.1" 200 893
+2023-09-17 16:09:43,626 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:43,929 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=39.47&lng=-6.38&dt=2023-09-17T16%3A09%3A43.624063 HTTP/1.1" 200 894
+2023-09-17 16:09:43,938 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:44,224 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=38.99&lng=-1.86&dt=2023-09-17T16%3A09%3A43.934597 HTTP/1.1" 200 894
+2023-09-17 16:09:44,231 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:44,542 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=39.86&lng=-4.03&dt=2023-09-17T16%3A09%3A44.228458 HTTP/1.1" 200 893
+2023-09-17 16:09:44,550 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:44,864 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=40.96&lng=-5.67&dt=2023-09-17T16%3A09%3A44.545783 HTTP/1.1" 200 895
+2023-09-17 16:09:44,870 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:45,187 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=39.98&lng=-0.05&dt=2023-09-17T16%3A09%3A44.868667 HTTP/1.1" 200 892
+2023-09-17 16:09:45,193 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:45,502 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=41.38&lng=2.18&dt=2023-09-17T16%3A09%3A45.191726 HTTP/1.1" 200 895
+2023-09-17 16:09:45,507 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:45,801 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=41.12&lng=1.24&dt=2023-09-17T16%3A09%3A45.504220 HTTP/1.1" 200 895
+2023-09-17 16:09:45,810 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:46,143 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=41.97&lng=2.82&dt=2023-09-17T16%3A09%3A45.806514 HTTP/1.1" 200 892
+2023-09-17 16:09:46,150 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:46,449 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=42.85&lng=-2.67&dt=2023-09-17T16%3A09%3A46.147401 HTTP/1.1" 200 895
+2023-09-17 16:09:46,454 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:46,759 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=43.36&lng=-5.85&dt=2023-09-17T16%3A09%3A46.452244 HTTP/1.1" 200 895
+2023-09-17 16:09:46,762 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:47,069 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=40.66&lng=-4.69&dt=2023-09-17T16%3A09%3A46.761161 HTTP/1.1" 200 893
+2023-09-17 16:09:47,072 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:47,363 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=42.35&lng=-3.69&dt=2023-09-17T16%3A09%3A47.070124 HTTP/1.1" 200 894
+2023-09-17 16:09:47,367 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:47,662 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=43.46&lng=-3.83&dt=2023-09-17T16%3A09%3A47.364093 HTTP/1.1" 200 894
+2023-09-17 16:09:47,668 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:47,966 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=38.98&lng=-3.93&dt=2023-09-17T16%3A09%3A47.666835 HTTP/1.1" 200 894
+2023-09-17 16:09:47,971 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:48,284 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=40.07&lng=-2.14&dt=2023-09-17T16%3A09%3A47.970225 HTTP/1.1" 200 896
+2023-09-17 16:09:48,288 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:48,583 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=40.63&lng=-3.16&dt=2023-09-17T16%3A09%3A48.286469 HTTP/1.1" 200 894
+2023-09-17 16:09:48,589 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:48,897 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=43.31&lng=-1.99&dt=2023-09-17T16%3A09%3A48.586041 HTTP/1.1" 200 895
+2023-09-17 16:09:48,905 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:49,202 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=42.13&lng=-0.41&dt=2023-09-17T16%3A09%3A48.901365 HTTP/1.1" 200 896
+2023-09-17 16:09:49,206 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:49,488 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=39.59&lng=2.71&dt=2023-09-17T16%3A09%3A49.205033 HTTP/1.1" 200 895
+2023-09-17 16:09:49,493 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:49,781 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=43.36&lng=-8.41&dt=2023-09-17T16%3A09%3A49.491214 HTTP/1.1" 200 895
+2023-09-17 16:09:49,788 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:50,096 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=42.46&lng=-2.44&dt=2023-09-17T16%3A09%3A49.785197 HTTP/1.1" 200 893
+2023-09-17 16:09:50,103 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:50,384 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=28.12&lng=-15.43&dt=2023-09-17T16%3A09%3A50.100094 HTTP/1.1" 200 890
+2023-09-17 16:09:50,392 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:50,737 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=42.6&lng=-5.57&dt=2023-09-17T16%3A09%3A50.388159 HTTP/1.1" 200 894
+2023-09-17 16:09:50,742 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:51,093 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=41.61&lng=0.63&dt=2023-09-17T16%3A09%3A50.740474 HTTP/1.1" 200 895
+2023-09-17 16:09:51,098 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:51,459 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=43.01&lng=-7.56&dt=2023-09-17T16%3A09%3A51.096531 HTTP/1.1" 200 895
+2023-09-17 16:09:51,467 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:51,895 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=37.99&lng=-1.13&dt=2023-09-17T16%3A09%3A51.463602 HTTP/1.1" 200 893
+2023-09-17 16:09:51,900 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:52,289 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=42.81&lng=-1.64&dt=2023-09-17T16%3A09%3A51.898372 HTTP/1.1" 200 894
+2023-09-17 16:09:52,293 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:52,651 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=42.33&lng=-7.86&dt=2023-09-17T16%3A09%3A52.291333 HTTP/1.1" 200 894
+2023-09-17 16:09:52,657 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:52,954 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=42.01&lng=-4.53&dt=2023-09-17T16%3A09%3A52.654585 HTTP/1.1" 200 894
+2023-09-17 16:09:52,962 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:53,243 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=42.43&lng=-8.64&dt=2023-09-17T16%3A09%3A52.958367 HTTP/1.1" 200 894
+2023-09-17 16:09:53,250 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:53,538 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=40.94&lng=-4.11&dt=2023-09-17T16%3A09%3A53.246633 HTTP/1.1" 200 892
+2023-09-17 16:09:53,542 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:53,873 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=41.77&lng=-2.48&dt=2023-09-17T16%3A09%3A53.540567 HTTP/1.1" 200 894
+2023-09-17 16:09:53,880 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:54,352 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=28.46&lng=-16.26&dt=2023-09-17T16%3A09%3A53.878572 HTTP/1.1" 200 890
+2023-09-17 16:09:54,356 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:54,870 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=40.34&lng=-1.11&dt=2023-09-17T16%3A09%3A54.354582 HTTP/1.1" 200 893
+2023-09-17 16:09:54,874 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:55,382 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=41.65&lng=-4.72&dt=2023-09-17T16%3A09%3A54.872922 HTTP/1.1" 200 894
+2023-09-17 16:09:55,386 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:55,718 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=43.26&lng=-2.93&dt=2023-09-17T16%3A09%3A55.384852 HTTP/1.1" 200 894
+2023-09-17 16:09:55,723 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:56,027 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=41.5&lng=-5.75&dt=2023-09-17T16%3A09%3A55.721328 HTTP/1.1" 200 894
+2023-09-17 16:09:56,030 - DEBUG - Starting new HTTPS connection (1): api.openuv.io:443
+2023-09-17 16:09:56,347 - DEBUG - https://api.openuv.io:443 "GET /api/v1/uv?lat=41.65&lng=-0.89&dt=2023-09-17T16%3A09%3A56.029996 HTTP/1.1" 200 895
+2023-09-17 16:09:56,352 - INFO - Data extracted succesfully!
+2023-09-17 16:09:56,353 - INFO - Starting transforming process of the data obtained
+2023-09-17 16:09:56,354 - INFO - Parsing data from json to pandas Dataframe...
+2023-09-17 16:09:56,405 - INFO - Data transformed to pandas dataframe successfully
+2023-09-17 16:09:56,405 - INFO - Creating a list of the city names
+2023-09-17 16:09:56,405 - INFO - Adding a list city column to the dataframe...
+2023-09-17 16:09:56,405 - INFO - Deleting unnecessary columns...
+2023-09-17 16:09:56,406 - INFO - Columns deleted!
+2023-09-17 16:09:56,406 - INFO - Converting ISO datetimes columns to a timestamp format...
+2023-09-17 16:09:56,409 - INFO - Columns transformed from ISO datetimes to a timestamp format
+2023-09-17 16:09:56,409 - INFO - Adding the new columns in timestamp...
+2023-09-17 16:09:56,410 - INFO - New columns added!
+2023-09-17 16:09:56,410 - INFO - Deleting columns old columns in ISO datetimes
+2023-09-17 16:09:56,410 - INFO - Old columns deleted!
+2023-09-17 16:09:56,410 - INFO - Replace '.' for '_' 
+2023-09-17 16:09:56,411 - INFO - Dots replaced for underscore successfully!
+2023-09-17 16:09:56,411 - INFO - Loading data to Big Query...
+2023-09-17 16:09:56,411 - INFO - Loading data process starting
+2023-09-17 16:09:56,459 - DEBUG - This service is instrumented using OpenTelemetry. OpenTelemetry or one of its components could not be imported; please add compatible versions of opentelemetry-api and opentelemetry-instrumentation packages in order to get BigQuery Tracing data.
+2023-09-17 16:09:56,459 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-09-17 16:09:56,462 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-09-17 16:09:56,463 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-09-17 16:09:56,553 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-09-17 16:09:56,556 - DEBUG - Starting new HTTPS connection (1): bigquery.googleapis.com:443
+2023-09-17 16:09:56,917 - DEBUG - https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/tfm-etl-weather-project/datasets/data_warehouse/tables/openuv?prettyPrint=false HTTP/1.1" 404 None
+2023-09-17 16:09:57,942 - DEBUG - https://bigquery.googleapis.com:443 "POST /bigquery/v2/projects/tfm-etl-weather-project/jobs?prettyPrint=false HTTP/1.1" 200 None
+2023-09-17 16:09:58,147 - DEBUG - https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/tfm-etl-weather-project/queries/c5f8531d-ff1c-44cc-8c53-ec51752fbef1?maxResults=0&location=europe-southwest1&prettyPrint=false HTTP/1.1" 200 None
+2023-09-17 16:09:58,239 - DEBUG - https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/tfm-etl-weather-project/jobs/c5f8531d-ff1c-44cc-8c53-ec51752fbef1?location=europe-southwest1&prettyPrint=false HTTP/1.1" 200 None
+2023-09-17 16:09:58,416 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-09-17 16:09:58,418 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-09-17 16:09:58,420 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-09-17 16:09:58,507 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-09-17 16:09:58,514 - DEBUG - Starting new HTTPS connection (1): bigquery.googleapis.com:443
+2023-09-17 16:09:58,761 - DEBUG - https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/tfm-etl-weather-project/datasets/data_warehouse/tables/openuv?prettyPrint=false HTTP/1.1" 200 None
+2023-09-17 16:09:59,683 - DEBUG - https://bigquery.googleapis.com:443 "POST /upload/bigquery/v2/projects/tfm-etl-weather-project/jobs?uploadType=multipart HTTP/1.1" 200 2826
+2023-09-17 16:09:59,764 - DEBUG - https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/tfm-etl-weather-project/jobs/89d72c3e-a59e-45b9-8618-ee6db17b069a?location=europe-southwest1&prettyPrint=false HTTP/1.1" 200 None
+2023-09-17 16:09:59,765 - DEBUG - Retrying due to , sleeping 0.6s ...
+2023-09-17 16:10:00,461 - DEBUG - https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/tfm-etl-weather-project/jobs/89d72c3e-a59e-45b9-8618-ee6db17b069a?location=europe-southwest1&prettyPrint=false HTTP/1.1" 200 None
+2023-09-17 16:10:00,462 - DEBUG - Retrying due to , sleeping 1.5s ...
+2023-09-17 16:10:02,142 - DEBUG - https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/tfm-etl-weather-project/jobs/89d72c3e-a59e-45b9-8618-ee6db17b069a?location=europe-southwest1&prettyPrint=false HTTP/1.1" 200 None
+2023-09-17 16:10:02,143 - INFO - 50 out of 50 rows loaded.
+2023-09-17 16:10:02,144 - INFO - Load table to bq succesfully
